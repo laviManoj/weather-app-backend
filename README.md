@@ -2,7 +2,7 @@
 # Weather APP
 
 ## Description
-A brief description of what the project does and its main features.
+Based on City Weather Checking
 
 ## Prerequisites
 
