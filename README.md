@@ -1,3 +1,16 @@
-Step1:- Clone this repo
-Step2:- npm i
-Step3:- Node index.js   for starting the server
+# Project Name
+# Weather APP
+
+## Description
+A brief description of what the project does and its main features.
+
+## Prerequisites
+
+- [Node.js](https://nodejs.org/) (Ensure you have Node.js installed on your system)
+
+## How to Run the Project
+
+### Step 1: Clone the Repository
+
+```bash
+git clone <repository_url>
