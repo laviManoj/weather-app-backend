@@ -11,6 +11,9 @@ Based on City Weather Checking
 ## How to Run the Project
 
 ### Step 1: Clone the Repository
-
+### Step 2:
 ```bash
+:
 git clone <repository_url>
+
+
